@@ -1,0 +1,12 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# OS Files
+.DS_Store
+Thumbs.db
